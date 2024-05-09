@@ -37,7 +37,7 @@ const Table = () => {
                                 <td className="text-center">{employee.phone}</td>
                                 <td className="text-center">{employee.email}</td>
                                 <td className="text-center">{employee.position}</td>
-                                <td className="text-center">${employee.salary} <button>Pay</button></td>
+                                <td className="text-center">${employee.salary}</td>
                                 <td className="text-center">{employee.joiningDate}</td>
                                 <td className="text-center">{employee.location}</td>
                                 <td>
